@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-jdbc:5.3.21-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/li/repository/org/springframework/spring-jdbc/5.3.21-SNAPSHOT/spring-jdbc-5.3.21-20220610.114808-26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/li/repository/org/springframework/spring-jdbc/5.3.21-SNAPSHOT/spring-jdbc-5.3.21-20220610.114808-26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/li/repository/org/springframework/spring-jdbc/5.3.21-SNAPSHOT/spring-jdbc-5.3.21-20220610.114808-26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
